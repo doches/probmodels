@@ -1,0 +1,261 @@
+body {
+  background: #000000 url("global_background.jpg") no-repeat top;
+  background-attachment: fixed;
+  text-align: center;
+  font-family: Helvetica, Verdana, sans-serif;
+}
+
+div#Frame {
+  width: 800px;
+  margin: 1em auto;
+  text-align: left;
+  -moz-border-radius: 9px;
+  -webkit-border-radius: 9px;
+  -webkit-box-shadow: #333 1px 1px 10px;
+  -moz-box-shadow: #333 1px 1px 10px;
+  border: 1px solid #444;
+}
+
+div#Title {
+  padding-bottom: 6px;
+  font-family: Georgia, serif;
+  padding: 8px 1em;
+/*  opacity: 0.90;
+  filter: alpha(opacity=90);*/
+  background-color: #fff;
+  -moz-border-radius-topleft: 9px;
+  -moz-border-radius-topright: 9px;
+  -webkit-border-top-left-radius: 9px;
+  -webkit-border-top-right-radius: 9px;
+}
+
+div#Title h1, div#Title h2{
+  font-weight: normal;
+}
+
+div#Title h1 {
+  text-align: center;
+  margin: 2px 0px;
+}
+
+div#Title h2 {
+  text-align: right;
+  margin: 0px 75px;
+  font-size: 18px;
+}
+
+div#Navbar {
+  clear: both;
+  height: 2em;
+  text-align: center;
+  margin: 0px auto;
+  background: #e0e0e6;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+div#Navbar ul {
+  list-style: none;
+  margin: 0px auto;
+  padding: 0px;
+}
+
+div#Navbar ul li {
+  float: left;
+  width: 25%;
+}
+
+div#Navbar ul li a {
+  height: 32px;
+  line-height: 32px;
+  padding: 8px;
+  color: #112;
+  text-shadow: #efefef 1px 1px 1px;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+
+div#Navbar ul li a:hover {
+  color: #003160;
+}
+
+div#Content {
+  padding: 0.5em 1em;
+  background-color: #fff;
+  -moz-border-radius-bottomleft: 9px;
+  -moz-border-radius-bottomright: 9px;
+  -webkit-border-bottom-left-radius: 9px;
+  -webkit-border-bottom-right-radius: 9px;
+  font-size: 14px;
+}
+
+div#Content h1, h2 {
+  margin: 0px 0px 0.25em 0px;
+  font-weight: normal;
+  text-align: center;
+}
+
+div#Content h1 {
+  font-size: 20px;
+}
+
+div#Content h2 {
+  font-size: 18px;
+}
+
+div#Content h4 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+}
+
+div#Content div#Tail {
+  clear: both;
+  text-align: center;
+}
+
+div#Footer {
+  clear: both;
+  text-align: center;
+  margin: 0px auto;
+  background: #fff;
+  padding: 4px;
+  width: 790px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -webkit-box-shadow: #333 1px 1px 10px;
+  -moz-box-shadow: #333 1px 1px 10px;
+  font-size: 12px;
+  border: 1px solid #444;
+}
+
+div#Footer a, div#Content a {
+  color: #003160;
+	font-family: Helvetica, Verdana, sans-serif;
+	text-decoration: none;
+}
+
+ul.People li {
+  list-style: none;
+  clear: both;
+  height: 110px;
+}
+
+ul.People li span.Photo img{
+  width: 100px;
+  border: 1px solid #666;
+  float: left;
+  margin-right: 1em;
+}
+
+ul.People li span.Name, ul.People li span.Interests, ul.People li span.Publications, ul.People li span.Supervisor {
+  clear: right;
+  display: block;
+}
+
+ul.People li span a {
+  color: #003160;
+  text-decoration: none;
+}
+
+ul.People li span a:hover {
+  text-decoration: underline;
+}
+
+ul.People li span.Interests, ul#Alumni li span.Location {
+  font-size: 12px;
+  position: relative;
+  top: 0.5em;
+}
+
+ul.People li span.Publications {
+  position: relative;
+  top: 1em;
+  display: none;
+}
+
+ul.People li span.Supervisor {
+	position:relative;
+	top: 1em;
+}
+
+ul#Alumni li span.Photo img {
+  width: 50px;
+}
+
+ul#Alumni li span.Date {
+  font-size: 12px;
+  font-style: italic;
+  position: relative;
+  top: -0.5em;
+  color: #666;
+  display: none;
+}
+
+ul#Alumni li {
+  height: 60px;
+}
+
+div#Content table, div#Content table th, div#Content table td {
+  border-style: solid;
+  border-color: #ddd;
+}
+
+div#Content table {
+  width: 100%;
+  border-width: 0px;
+}
+
+div#Content table tr th {
+  border-width: 0px 0px 1px 0px;
+  padding: 1px 0px 1px 12px;
+}
+
+div#Content table tr td {
+  border-width: 0px 0px 1px 0px;
+  padding: 0.5em 4px;
+}
+
+ul#Schedule {
+  list-style: none;
+}
+
+ul#Schedule li {
+	border-bottom: 1px solid #dfdfdf;
+	margin-bottom: 6px;
+	width: 95%;
+}
+
+ul#Schedule span.Date, ul#Schedule span.Presenter, ul#Schedule span.Title {
+  display: block;
+}
+
+ul#Schedule span.Date {
+  font-weight: bold;
+}
+
+ul#Schedule span.Presenter, ul#Schedule span.Title {
+  margin-left: 2em;
+}
+
+ul#Schedule span.Title {
+  font-style: italic;
+  margin-bottom: 0.5em;
+}
+
+ul.PublicationList {
+  list-style: none;
+  font-size: 12px;
+} 
+  
+span.PublicationJournal {
+	font-style: italic;
+}
+
+span.PublicationDownload a {
+	color: #777;
+	text-transform: capitalize;
+	font-size: 12px;
+	letter-spacing: 0px;
+	margin-left: 3em;
+	text-decoration:none;
+}
