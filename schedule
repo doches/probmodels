@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8" /> 
+  <title>Probabilistic Models Reading Group @ Edinburgh Informatics</title> 
+  <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
+  <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Atom Feed" /> 
+  <link href="/feed.rss" type="application/rss+xml" rel="alternate" title="RSS2.0 Feed" /> 
+  <script src="scripts/stats.js" type="text/javascript" ></script> 
+  <meta name="viewport" content="width = 800"> 
+</head> 
+<body>
+  <div id="Frame">
+    <div id="Title">
+      <h1>Probabilistic Models Reading Group</h1>
+      <h2>@ The University of Edinburgh</h2>
+    </div>
+    <div id="Navbar">
+      <ul>
+        <li><a href="/probmodels/">About</a></li>
+        <li><a href="/probmodels/people">People</a></li>
+        <li><a href="/probmodels/publications">Publications</a></li>
+        <li><a href="/probmodels/schedule">Schedule</a></li>
+      </ul>
+    </div>
+    <div id="Content">
+    <h2>Schedule</h2>
+       <ul id="Schedule">
+        <li>
+          <span class="Date">21 September</span>
+          <span class="Presenter">Trevor Fountain</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">21 September</span>
+          <span class="Presenter">Trevor Fountain</span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">21 September</span>
+          <span class="Presenter">Trevor Fountain</span>
+          <span class="Title">TBA</span>
+        </li>
+      </ul>
+</div>
+  </div>
+  <div id="Footer"><a href="/probmodels/colophon">Colophon</a></div>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8" /> 
+  <title>Probabilistic Models Reading Group @ Edinburgh Informatics</title> 
+  <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
+  <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Atom Feed" /> 
+  <link href="/feed.rss" type="application/rss+xml" rel="alternate" title="RSS2.0 Feed" /> 
+  <script src="scripts/stats.js" type="text/javascript" ></script> 
+  <meta name="viewport" content="width = 800"> 
+</head> 
+<body>
+  <div id="Frame">
+    <div id="Title">
+      <h1>Probabilistic Models Reading Group</h1>
+      <h2>@ The University of Edinburgh</h2>
+    </div>
+    <div id="Navbar">
+      <ul>
+        <li><a href="/probmodels/">About</a></li>
+        <li><a href="/probmodels/people">People</a></li>
+        <li><a href="/probmodels/publications">Publications</a></li>
+        <li><a href="/probmodels/schedule">Schedule</a></li>
+      </ul>
+    </div>
+    <div id="Content">
+    <h2>Publications</h2>
+<h4>2010</h4>
+<ul class="PublicationList">
+  <li>
+    <span class="PublicationAuthor">Fountain, T. & Lapata, M.</span>
+    <span class="PublicationYear">(2010).</span>
+    <span class="PublicationTitle">Meaning Representation in Natural Language Categories.</span>
+    <span class="PublicationEditor">In S. Ohlsson & R. Catrambone (Eds.),</span>
+    <span class="PublicationJournal">Proceedings of the 32nd Annual Conference of the Cognitive Science Society.</span>
+    <span class="PublicationLocation">Austin, TX: Cognitive Science Society.</span>
+    <span class="PublicationDownload"><a href="/media/Meaning Representation in Natural Language Categories.pdf">[PDF]</a></span>
+  </li>
+</ul>
+</div>
+  </div>
+  <div id="Footer"><a href="/probmodels/colophon">Colophon</a></div>
+</body>
+</html>
