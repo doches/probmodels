@@ -134,65 +134,32 @@ div#Footer a, div#Content a {
 	text-decoration: none;
 }
 
-ul.People li {
-  list-style: none;
-  clear: both;
-  height: 110px;
-}
-
-ul.People li span.Photo img{
+ul.People img {
   width: 100px;
   border: 1px solid #666;
   float: left;
   margin-right: 1em;
+  position: relative;
 }
 
-ul.People li span.Name, ul.People li span.Interests, ul.People li span.Publications, ul.People li span.Supervisor {
+ul.People li {
   clear: right;
-  display: block;
+  list-style: none;
+  font-size:12px;
 }
 
-ul.People li span a {
-  color: #003160;
-  text-decoration: none;
+ul.People li.Person {
+  height: 100px;
+  clear: both;
+  padding: 5px;
 }
 
-ul.People li span a:hover {
-  text-decoration: underline;
+li.Person li {
+  margin-bottom: 1em;
 }
 
-ul.People li span.Interests, ul#Alumni li span.Location {
-  font-size: 12px;
-  position: relative;
-  top: 0.5em;
-}
-
-ul.People li span.Publications {
-  position: relative;
-  top: 1em;
-  display: none;
-}
-
-ul.People li span.Supervisor {
-	position:relative;
-	top: 1em;
-}
-
-ul#Alumni li span.Photo img {
-  width: 50px;
-}
-
-ul#Alumni li span.Date {
-  font-size: 12px;
-  font-style: italic;
-  position: relative;
-  top: -0.5em;
-  color: #666;
-  display: none;
-}
-
-ul#Alumni li {
-  height: 60px;
+ul.People li.Name {
+  font-size:14px;
 }
 
 div#Content table, div#Content table th, div#Content table td {

@@ -26,18 +26,83 @@
     <div id="Content">
     <h2>People</h2>
       <ul class="People">
-        <li>
-          <span class="Photo"><img src="images/people/MarkWilding_small.jpeg" alt="Mark Granroth-Wilding" title="Mark Granroth-Wilding" /></span>
-          <span class="Name"><a href="http://jazzparser.granroth-wilding.co.uk ">Mark Granroth-Wilding</a></span>
-          <span class="Interests">musical grammar, ccg, music processing, tonality theory, statistical parsing, harmony analysis.</span>
-          <span class="Supervisor">Mark Steedman, Sharon Goldwater</span>
+        <li class="Person"><img src="images/people/moreno_coco.png" alt="Moreno I. Coco" title="Moreno I. Coco" />
+          <ul>
+            <li class="Name">Moreno I. Coco</li>
+            <li class="Interests">sentence processing, visual cognition, eye-tracking, coordination of cognition,
+            interaction vision-language, cross-modal referentiality. </li>
+            <li class="Supervisor">Supervised by Frank Keller and John M. Henderson</li>
+          </ul>
         </li>
-        <li>
-          <span class="Photo"><img src="images/people/trevor_fountain.png" alt="Trevor Fountain" title="Trevor Fountain" /></span>
-          <span class="Name"><a href="http://texasexpat.net/academia">Trevor Fountain</a></span>
-          <span class="Interests">natural language categorization, semantic analysis, nonparametric clustering.</span>
-          <span class="Supervisor">Mirella Lapata</span>
+        <li class="Person"><img src="images/people/christos_christodoulopoulos.png" alt="Christos Christodoulopoulos" title="Christos Christodoulopoulos" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0787820/ ">Christos Christodoulopoulos</a></li>
+            <li class="Interests">unsupervised POS induction, multilingual POS analysis, semantic primitives </li>
+            <li class="Supervisor">Supervised by Mark Steedman</li>
+          </ul>
         </li>
+        <li class="Person"><img src="images/people/trevor_fountain.png" alt="Trevor Fountain" title="Trevor Fountain" />
+          <ul>
+            <li class="Name"><a href="http://texasexpat.net">Trevor Fountain</a></li>
+            <li class="Interests">natural language categorization, nonparametric clustering, human category acquisition</li>
+            <li class="Supervisor">Supervised by Mirella Lapata</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/sharon_goldwater.jpg" alt="Sharon Goldwater" title="Sharon Goldwater" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/sgwater/
+            ">Sharon Goldwater</a></li>
+            <li class="Interests">probabilistic (esp. Bayesian) models of language acquisition,
+            unsupervised learning for NLP, phonetics/phonology, morphology</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/mystery.jpg" alt="Frank Keller" title="Frank Keller" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/keller/
+            ">Frank Keller</a></li>
+            <li class="Interests">probabilistic models of cognition, parsing, language production,
+            language acquisition, language-vision interface, eyetracking
+            </li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/mystery.jpg" alt="Mirella Lapata" title="Mirella Lapata" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/mlap/
+            ">Mirella Lapata
+            </a></li>
+            <li class="Interests">probabilistic learning for natural language understanding and
+            generation, language grounding, models of vision and language </li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/fergus_mcinnes.jpg" alt="Fergus McInnes" title="Fergus McInnes" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/fmi/ ">Fergus McInnes</a></li>
+            <li class="Interests">language acquisition, usability of dialogue systems, turn-taking </li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/mark_wilding.jpg" alt="Mark Granroth-Wilding" title="Mark Granroth-Wilding" />
+          <ul>
+            <li class="Name"><a href="http://jazzparser.granroth-wilding.co.uk ">Mark Granroth-Wilding</a></li>
+            <li class="Interests">musical grammar, ccg, music processing, tonality theory, statistical parsing, harmony analysis</li>
+            <li class="Supervisor">Supervised by Mark Steedman and Sharon Goldwater</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/kristian_woodsend.jpg" alt="Kristian Woodsend" title="Kristian Woodsend" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/kwoodsen/">Kristian Woodsend</a></li>
+            <li class="Interests">language generation, summarization, machine learning methods, large-scale optimization, mathematical modelling </li>
+            <li class="Supervisor">Supervised by Mirella Lapata</li>
+          </ul>
+        </li>
+<!--// ...Begin copy //
+        <li class="Person"><img src="images/people/" alt="#name#" title="#name#" />
+          <ul>
+            <li class="Name"><a href="#url#">#name#</a></li>
+            <li class="Interests">#interests#</li>
+            <li class="Supervisor">Supervised by #supervisor#</li>
+          </ul>
+        </li>
+    // ...End copy... //-->
       </ul>
 </div>
   </div>
