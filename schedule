@@ -2,17 +2,15 @@
 <html lang="en"> 
 <head> 
   <meta charset="UTF-8" /> 
-  <title>Probabilistic Models Reading Group @ Edinburgh Informatics</title> 
+  <title>Probabilistic Models of Natural Language Reading Group @ Edinburgh Informatics</title> 
   <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
-  <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Atom Feed" /> 
-  <link href="/feed.rss" type="application/rss+xml" rel="alternate" title="RSS2.0 Feed" /> 
   <script src="scripts/stats.js" type="text/javascript" ></script> 
   <meta name="viewport" content="width = 800"> 
 </head> 
 <body>
   <div id="Frame">
     <div id="Title">
-      <h1>Probabilistic Models Reading Group</h1>
+      <h1>Probabilistic Models of Natural Language Reading Group</h1>
       <h2>@ The University of Edinburgh</h2>
     </div>
     <div id="Navbar">
@@ -28,19 +26,51 @@
        <ul id="Schedule">
         <li>
           <span class="Date">21 September</span>
+          <span class="Presenter">Christos Christodoulopoulos</span>
+          <span class="Title">Phylogenetic grammar induction</span>
+        </li>
+        <li>
+          <span class="Date">28 September</span>
+          <span class="Presenter"></span>
+          <span class="Title">EMNLP practice talks</span>
+        </li>
+        <li>
+          <span class="Date">5 October</span>
+          <span class="Presenter">Violetta Seretan</span>
+          <span class="Title">Research presentation</span>
+        </li>
+        <li>
+          <span class="Date">12 October</span>
+          <span class="Presenter"></span>
+          <span class="Title">TBA</span>
+        </li>
+        <li>
+          <span class="Date">19 October</span>
+          <span class="Presenter"></span>
+          <span class="Title">EMNLP conference reports</span>
+        </li>
+        <li>
+          <span class="Date">26 October</span>
           <span class="Presenter">Trevor Fountain</span>
           <span class="Title">TBA</span>
         </li>
         <li>
-          <span class="Date">21 September</span>
-          <span class="Presenter">Trevor Fountain</span>
+          <span class="Date">2 November</span>
+          <span class="Presenter">Isil</span>
           <span class="Title">TBA</span>
         </li>
         <li>
-          <span class="Date">21 September</span>
-          <span class="Presenter">Trevor Fountain</span>
+          <span class="Date">9 November</span>
+          <span class="Presenter">Sharon Goldwater</span>
           <span class="Title">TBA</span>
         </li>
+<!-- // Begin copy //
+        <li>
+          <span class="Date">21 September</span>
+          <span class="Presenter"></span>
+          <span class="Title">TBA</span>
+        </li>
+     // End copy // --->
       </ul>
 </div>
   </div>

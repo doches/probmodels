@@ -36,6 +36,7 @@ div#Title h1, div#Title h2{
 div#Title h1 {
   text-align: center;
   margin: 2px 0px;
+  font-size: 24px;
 }
 
 div#Title h2 {
@@ -85,7 +86,7 @@ div#Content {
   -moz-border-radius-bottomright: 9px;
   -webkit-border-bottom-left-radius: 9px;
   -webkit-border-bottom-right-radius: 9px;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 div#Content h1, h2 {

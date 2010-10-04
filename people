@@ -2,17 +2,15 @@
 <html lang="en"> 
 <head> 
   <meta charset="UTF-8" /> 
-  <title>Probabilistic Models Reading Group @ Edinburgh Informatics</title> 
+  <title>Probabilistic Models of Natural Language Reading Group @ Edinburgh Informatics</title> 
   <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
-  <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Atom Feed" /> 
-  <link href="/feed.rss" type="application/rss+xml" rel="alternate" title="RSS2.0 Feed" /> 
   <script src="scripts/stats.js" type="text/javascript" ></script> 
   <meta name="viewport" content="width = 800"> 
 </head> 
 <body>
   <div id="Frame">
     <div id="Title">
-      <h1>Probabilistic Models Reading Group</h1>
+      <h1>Probabilistic Models of Natural Language Reading Group</h1>
       <h2>@ The University of Edinburgh</h2>
     </div>
     <div id="Navbar">
@@ -25,64 +23,56 @@
     </div>
     <div id="Content">
     <h2>People</h2>
-      <ul class="People">
+       <ul class="People">
         <li class="Person"><img src="images/people/moreno_coco.png" alt="Moreno I. Coco" title="Moreno I. Coco" />
           <ul>
-            <li class="Name">Moreno I. Coco</li>
-            <li class="Interests">sentence processing, visual cognition, eye-tracking, coordination of cognition,
-            interaction vision-language, cross-modal referentiality. </li>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0788806/">Moreno I. Coco</a></li>
+            <li class="Interests">sentence processing, visual cognition, eye-tracking, coordination of cognition, interaction vision-language, cross-modal referentiality. </li>
             <li class="Supervisor">Supervised by Frank Keller and John M. Henderson</li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/christos_christodoulopoulos.png" alt="Christos Christodoulopoulos" title="Christos Christodoulopoulos" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0787820/ ">Christos Christodoulopoulos</a></li>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0787820/">Christos Christodoulopoulos</a></li>
             <li class="Interests">unsupervised POS induction, multilingual POS analysis, semantic primitives </li>
             <li class="Supervisor">Supervised by Mark Steedman</li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/trevor_fountain.png" alt="Trevor Fountain" title="Trevor Fountain" />
           <ul>
-            <li class="Name"><a href="http://texasexpat.net">Trevor Fountain</a></li>
+            <li class="Name"><a href="http://texasexpat.net/academia">Trevor Fountain</a></li>
             <li class="Interests">natural language categorization, nonparametric clustering, human category acquisition</li>
             <li class="Supervisor">Supervised by Mirella Lapata</li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/sharon_goldwater.jpg" alt="Sharon Goldwater" title="Sharon Goldwater" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/sgwater/
-            ">Sharon Goldwater</a></li>
-            <li class="Interests">probabilistic (esp. Bayesian) models of language acquisition,
-            unsupervised learning for NLP, phonetics/phonology, morphology</li>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Goldwater</a></li>
+            <li class="Interests">probabilistic (esp. Bayesian) models of language acquisition, unsupervised learning for NLP, phonetics/phonology, morphology</li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/mystery.jpg" alt="Frank Keller" title="Frank Keller" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/keller/
-            ">Frank Keller</a></li>
-            <li class="Interests">probabilistic models of cognition, parsing, language production,
-            language acquisition, language-vision interface, eyetracking
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/keller/">Frank Keller</a></li>
+            <li class="Interests">probabilistic models of cognition, parsing, language production, language acquisition, language-vision interface, eyetracking
             </li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/mystery.jpg" alt="Mirella Lapata" title="Mirella Lapata" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/mlap/
-            ">Mirella Lapata
-            </a></li>
-            <li class="Interests">probabilistic learning for natural language understanding and
-            generation, language grounding, models of vision and language </li>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a></li>
+            <li class="Interests">probabilistic learning for natural language understanding andgeneration, language grounding, models of vision and language </li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/fergus_mcinnes.jpg" alt="Fergus McInnes" title="Fergus McInnes" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/fmi/ ">Fergus McInnes</a></li>
-            <li class="Interests">language acquisition, usability of dialogue systems, turn-taking </li>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/fmi/">Fergus McInnes</a></li>
+            <li class="Interests">language acquisition, usability of dialogue systems, turn-taking</li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/mark_wilding.jpg" alt="Mark Granroth-Wilding" title="Mark Granroth-Wilding" />
           <ul>
-            <li class="Name"><a href="http://jazzparser.granroth-wilding.co.uk ">Mark Granroth-Wilding</a></li>
+            <li class="Name"><a href="http://jazzparser.granroth-wilding.co.uk">Mark Granroth-Wilding</a></li>
             <li class="Interests">musical grammar, ccg, music processing, tonality theory, statistical parsing, harmony analysis</li>
             <li class="Supervisor">Supervised by Mark Steedman and Sharon Goldwater</li>
           </ul>

@@ -1,0 +1,3 @@
+DefaultType text/html
+DirectoryIndex index index.html
+AddDefaultCharset UTF-8
