@@ -38,6 +38,13 @@
             <li class="Supervisor">Supervised by Mark Steedman</li>
           </ul>
         </li>
+        <li class="Person"><img src="images/people/mystery.jpg" alt="Aciel Eshky" title="Aciel Eshky" />
+          <ul>
+            <li class="Name"><a href="http://www.inf.ed.ac.uk/people/students/Aciel_Eshky.html">Aciel Eshky</a></li>
+            <li class="Interests">Currently working on applying automated planning to high-level dialogue problems, but generally interested in most language related topics. Also interested in probabilistic modeling.</li>
+            <li class="Supervisor">Supervised by Mark Steedman and Ron Petrick</li>
+          </ul>
+        </li>
         <li class="Person"><img src="images/people/trevor_fountain.png" alt="Trevor Fountain" title="Trevor Fountain" />
           <ul>
             <li class="Name"><a href="http://texasexpat.net/academia">Trevor Fountain</a></li>
@@ -58,7 +65,7 @@
             </li>
           </ul>
         </li>
-        <li class="Person"><img src="images/people/mystery.jpg" alt="Mirella Lapata" title="Mirella Lapata" />
+        <li class="Person"><img src="images/people/mirella_lapata.jpg" alt="Mirella Lapata" title="Mirella Lapata" />
           <ul>
             <li class="Name"><a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a></li>
             <li class="Interests">probabilistic learning for natural language understanding andgeneration, language grounding, models of vision and language </li>
@@ -68,6 +75,13 @@
           <ul>
             <li class="Name"><a href="http://homepages.inf.ed.ac.uk/fmi/">Fergus McInnes</a></li>
             <li class="Interests">language acquisition, usability of dialogue systems, turn-taking</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/john_pate.jpg" alt="John K Pate" title="John K Pate" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0930006">John K Pate</a></li>
+            <li class="Interests">child language acquisition, prosody, syntax, grammar induction</li>
+            <li class="Supervisor">Supervised by Sharon Goldwater and Simon King</li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/mark_wilding.jpg" alt="Mark Granroth-Wilding" title="Mark Granroth-Wilding" />

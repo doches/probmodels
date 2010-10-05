@@ -23,7 +23,7 @@
     </div>
     <div id="Content">
     <h2>About</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>Probabilistic Models of Language (ProbModels) is a weekly meeting of staff and students interested in probabilistic and statistical methods as used in both natural language processing systems andmodels of human language acquisition and processing.  We schedule a mix of informal paper discussions and more formal research presentations, as well as conference practice talks and other research-related activities.</p>
       <div id="Tail">
         <img src="images/informatics_logo.png" alt="School of Informatics Logo" title="The University of Edinburgh's School of Informatics" />
       </div>
