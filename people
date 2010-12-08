@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head> 
   <meta charset="UTF-8" /> 
-  <title>Probabilistic Models of Natural Language Reading Group @ Edinburgh Informatics</title> 
+  <title>Probabilistic Models of Language Group @ Edinburgh Informatics</title> 
   <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
   <script src="scripts/stats.js" type="text/javascript" ></script> 
   <meta name="viewport" content="width = 800"> 
@@ -10,20 +10,83 @@
 <body>
   <div id="Frame">
     <div id="Title">
-      <h1>Probabilistic Models of Natural Language Reading Group</h1>
+      <h1>Probabilistic Models of Language Group</h1>
       <h2>@ The University of Edinburgh</h2>
     </div>
     <div id="Navbar">
       <ul>
         <li><a href="/probmodels/">About</a></li>
         <li><a href="/probmodels/people">People</a></li>
-        <li><a href="/probmodels/publications">Publications</a></li>
         <li><a href="/probmodels/schedule">Schedule</a></li>
+        <li><a href="/probmodels/publications">Publications</a></li>
       </ul>
     </div>
     <div id="Content">
     <h2>People</h2>
-       <ul class="People">
+   <h3>Faculty</h3>
+      <ul class="People">
+        <li class="Person"><img src="images/people/sharon_goldwater.jpg" alt="Sharon Goldwater" title="Sharon Goldwater" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Goldwater</a></li>
+            <li class="Interests">probabilistic (esp. Bayesian) models of language acquisition, unsupervised learning for NLP, phonetics/phonology, morphology</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/frank_keller.jpg" alt="Frank Keller" title="Frank Keller" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/keller/">Frank Keller</a></li>
+            <li class="Interests">probabilistic models of cognition, parsing, language production, language acquisition, language-vision interface, eyetracking
+            </li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/mirella_lapata.jpg" alt="Mirella Lapata" title="Mirella Lapata" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a></li>
+            <li class="Interests">probabilistic learning for natural language understanding andgeneration, language grounding, models of vision and language </li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/mark_steedman.jpg" alt="Mark Steedman" title="Mark Steedman" />
+          <ul>
+            <li class="Name"><a href="http://www.inf.ed.ac.uk/~steedman
+">Mark Steedman</a></li>
+            <li class="Interests">Computational linguistics, artificial
+intelligence, formal grammar, spoken intonation, statistical parsing, spoken language processing, animated conversational agents, computational musical analysis.</li>
+          </ul>
+        </li>
+      </ul>
+    
+    <h3>Postdoctoral Researchers</h3>
+      <ul class="People">
+        <li class="Person"><img src="images/people/benjamin_allison.jpg" alt="Ben Allison" title="Ben Allison" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/ballison/index.html">Ben Allison</a></li>
+            <li class="Interests">computer vision; classification; generative models; language modelling; sentiment detection </li>
+            <li class="Supervisor">Working with Frank Keller</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/fergus_mcinnes.jpg" alt="Fergus McInnes" title="Fergus McInnes" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/fmi/">Fergus McInnes</a></li>
+            <li class="Interests">language acquisition, usability of dialogue systems, turn-taking</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/violeta_seretan.jpg" alt="Violeta Seretan" title="Violeta Seretan" />
+          <ul>
+            <li class="Name">Violeta Seretan</li>
+            <li class="Interests">text simplification, text-to-text generation, language production, integer linear programming</li>
+            <li class="Supervisor">Working with Mirella Lapata</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/kristian_woodsend.jpg" alt="Kristian Woodsend" title="Kristian Woodsend" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/kwoodsen/">Kristian Woodsend</a></li>
+            <li class="Interests">language generation, summarization, machine learning methods, large-scale optimization, mathematical modelling </li>
+            <li class="Supervisor">Working with Mirella Lapata</li>
+          </ul>
+        </li>
+      </ul>
+    
+    <h3>Students</h3>
+      <ul class="People">
         <li class="Person"><img src="images/people/moreno_coco.png" alt="Moreno I. Coco" title="Moreno I. Coco" />
           <ul>
             <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0788806/">Moreno I. Coco</a></li>
@@ -34,11 +97,25 @@
         <li class="Person"><img src="images/people/christos_christodoulopoulos.png" alt="Christos Christodoulopoulos" title="Christos Christodoulopoulos" />
           <ul>
             <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0787820/">Christos Christodoulopoulos</a></li>
-            <li class="Interests">unsupervised POS induction, multilingual POS analysis, semantic primitives </li>
+            <li class="Interests">unsupervised POS induction, multilingual POS analysis, semantic primitives</li>
             <li class="Supervisor">Supervised by Mark Steedman</li>
           </ul>
         </li>
-        <li class="Person"><img src="images/people/mystery.jpg" alt="Aciel Eshky" title="Aciel Eshky" />
+        <li class="Person"><img src="images/people/michal_dziemianko.jpg" alt="Michal Dziemianko" title="Michal Dziemianko" />
+          <ul>
+            <li class="Name"><a href="homepages.inf.ed.ac.uk/s0788261">Michal Dziemianko</a></li>
+            <li class="Interests">Synchronous Linguistic and Visual Processing, Machine Learning, Models of Cognition, NLP, Speech processing.</li>
+            <li class="Supervisor">Supervised by Frank Keller</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/desmond_elliott.jpg" alt="Desmond Elliott" title="Desmond Elliott" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0128959/">Desmond Elliott</a></li>
+            <li class="Interests">natural language processing, computer vision, computational linguistics, visual processing, information retrieval</li>
+            <li class="Supervisor">Supervised by Frank Keller</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/aciel_eshky.jpg" alt="Aciel Eshky" title="Aciel Eshky" />
           <ul>
             <li class="Name"><a href="http://www.inf.ed.ac.uk/people/students/Aciel_Eshky.html">Aciel Eshky</a></li>
             <li class="Interests">Currently working on applying automated planning to high-level dialogue problems, but generally interested in most language related topics. Also interested in probabilistic modeling.</li>
@@ -52,29 +129,42 @@
             <li class="Supervisor">Supervised by Mirella Lapata</li>
           </ul>
         </li>
-        <li class="Person"><img src="images/people/sharon_goldwater.jpg" alt="Sharon Goldwater" title="Sharon Goldwater" />
+        <li class="Person"><img src="images/people/stella_frank.jpg" alt="Stella Frank" title="Stella Frank" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Goldwater</a></li>
-            <li class="Interests">probabilistic (esp. Bayesian) models of language acquisition, unsupervised learning for NLP, phonetics/phonology, morphology</li>
+            <li class="Name">Stella Frank</li>
+            <li class="Interests">Unsupervised Bayesian Modeling, Language
+Acquisition, Part of Speech Tagging, Grammar Induction.</li>
+            <li class="Supervisor">Supervised by Sharon Goldwater and Frank Keller</li>
           </ul>
         </li>
-        <li class="Person"><img src="images/people/mystery.jpg" alt="Frank Keller" title="Frank Keller" />
+        <li class="Person"><img src="images/people/diego_frassinelli.jpg" alt="Diego Frassinelli" title="Diego Frassinelli" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/keller/">Frank Keller</a></li>
-            <li class="Interests">probabilistic models of cognition, parsing, language production, language acquisition, language-vision interface, eyetracking
-            </li>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s1050845/">Diego Frassinelli</a></li>
+            <li class="Interests">human cognition, probabilistic models of cognition, multimodal perception, feature representations</li>
+            <li class="Supervisor">Supervised by Frank Keller</li>
           </ul>
         </li>
-        <li class="Person"><img src="images/people/mirella_lapata.jpg" alt="Mirella Lapata" title="Mirella Lapata" />
+        <li class="Person"><img src="images/people/bevan_jones.jpg" alt="Bevan Jones" title="Bevan Jones" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a></li>
-            <li class="Interests">probabilistic learning for natural language understanding andgeneration, language grounding, models of vision and language </li>
+            <li class="Name">Bevan K. Jones</li>
+            <li class="Interests">Bayesian models of language acquisition as it relates to 
+non-linguistic context, semantic parsing, grammar induction, unsupervised 
+machine learning (especially nonparametric Bayesian methods).</li>
+            <li class="Supervisor">Supervised by Sharon Goldwater and Mark Johnson</li>
           </ul>
         </li>
-        <li class="Person"><img src="images/people/fergus_mcinnes.jpg" alt="Fergus McInnes" title="Fergus McInnes" />
+        <li class="Person"><img src="images/people/ioannis_konstas.jpg" alt="Ioannis (Yannis) Konstas" title="Ioannis (Yannis) Konstas" />
           <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/fmi/">Fergus McInnes</a></li>
-            <li class="Interests">language acquisition, usability of dialogue systems, turn-taking</li>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0793019/">Ioannis (Yannis) Konstas</a></li>
+            <li class="Interests">Concept-to-Text Natural Language Generation, Machine Translation, Semantic Parsing, Unsupervised Bayesian Modelling, Machine Learning</li>
+            <li class="Supervisor">Supervised by Mirella Lapata</li>
+          </ul>
+        </li>
+        <li class="Person"><img src="images/people/tom_kwiatkowski.jpg" alt="Tom Kwiatkowski" title="Tom Kwiatkowski" />
+          <ul>
+            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/s0791051/">Tom Kwiatkowski</a></li>
+            <li class="Interests">Semantics, parsing, modeling language acquisition and structure learning.</li>
+            <li class="Supervisor">Supervised by Mark Steedman and Sharon Goldwater</li>
           </ul>
         </li>
         <li class="Person"><img src="images/people/john_pate.jpg" alt="John K Pate" title="John K Pate" />
@@ -91,13 +181,7 @@
             <li class="Supervisor">Supervised by Mark Steedman and Sharon Goldwater</li>
           </ul>
         </li>
-        <li class="Person"><img src="images/people/kristian_woodsend.jpg" alt="Kristian Woodsend" title="Kristian Woodsend" />
-          <ul>
-            <li class="Name"><a href="http://homepages.inf.ed.ac.uk/kwoodsen/">Kristian Woodsend</a></li>
-            <li class="Interests">language generation, summarization, machine learning methods, large-scale optimization, mathematical modelling </li>
-            <li class="Supervisor">Supervised by Mirella Lapata</li>
-          </ul>
-        </li>
+      </ul>
 <!--// ...Begin copy //
         <li class="Person"><img src="images/people/" alt="#name#" title="#name#" />
           <ul>
@@ -107,7 +191,6 @@
           </ul>
         </li>
     // ...End copy... //-->
-      </ul>
 </div>
   </div>
   <div id="Footer"><a href="/probmodels/colophon">Colophon</a></div>

@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head> 
   <meta charset="UTF-8" /> 
-  <title>Probabilistic Models of Natural Language Reading Group @ Edinburgh Informatics</title> 
+  <title>Probabilistic Models of Language Group @ Edinburgh Informatics</title> 
   <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
   <script src="scripts/stats.js" type="text/javascript" ></script> 
   <meta name="viewport" content="width = 800"> 
@@ -10,20 +10,29 @@
 <body>
   <div id="Frame">
     <div id="Title">
-      <h1>Probabilistic Models of Natural Language Reading Group</h1>
+      <h1>Probabilistic Models of Language Group</h1>
       <h2>@ The University of Edinburgh</h2>
     </div>
     <div id="Navbar">
       <ul>
         <li><a href="/probmodels/">About</a></li>
         <li><a href="/probmodels/people">People</a></li>
-        <li><a href="/probmodels/publications">Publications</a></li>
         <li><a href="/probmodels/schedule">Schedule</a></li>
+        <li><a href="/probmodels/publications">Publications</a></li>
       </ul>
     </div>
     <div id="Content">
     <h2>About</h2>
-      <p>Probabilistic Models of Language (ProbModels) is a weekly meeting of staff and students interested in probabilistic and statistical methods as used in both natural language processing systems andmodels of human language acquisition and processing.  We schedule a mix of informal paper discussions and more formal research presentations, as well as conference practice talks and other research-related activities.</p>
+      <p>Probabilistic Models of Language (ProbModels) is a weekly meeting of staff and students interested in probabilistic and statistical methods as used in both natural language processing systems and models of human language acquisition and processing.  We schedule a mix of informal paper discussions and more formal research presentations, as well as conference practice talks and other research-related activities.</p>
+<p>The primary faculty advisors for the group are <a href="http://homepages.inf.ed.ac.uk/sgwater/">Sharon Goldwater</a>,
+<a href="http://homepages.inf.ed.ac.uk/keller/">Frank Keller</a>, <a href="http://homepages.inf.ed.ac.uk/mlap/">Mirella Lapata</a>, and <a href="http://www.cogsci.ed.ac.uk/~steedman/">Mark Steedman</a>.  We strongly
+encourage all of our students and postdocs to attend, and welcome
+other interested parties as well.  Meetings are normally held Tuesdays
+from 12:30-1:30 in IF 4.31 (feel free to bring lunch).  You can
+receive announcements with each week's topic or paper to read by
+subscribing to our <a href="http://lists.inf.ed.ac.uk/mailman/listinfo/statsnlp">mailing list</a>; we also try to keep the
+<a href="http://groups.inf.ed.ac.uk/probmodels/schedule">schedule</a> on this page up-to-date.</p>
+
       <div id="Tail">
         <img src="images/informatics_logo.png" alt="School of Informatics Logo" title="The University of Edinburgh's School of Informatics" />
       </div>

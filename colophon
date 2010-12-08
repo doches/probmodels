@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head> 
   <meta charset="UTF-8" /> 
-  <title>Probabilistic Models of Natural Language Reading Group @ Edinburgh Informatics</title> 
+  <title>Probabilistic Models of Language Group @ Edinburgh Informatics</title> 
   <link rel="stylesheet" type="text/css" media="screen" href="css/probmodels_screen.css" /> 
   <script src="scripts/stats.js" type="text/javascript" ></script> 
   <meta name="viewport" content="width = 800"> 
@@ -10,15 +10,15 @@
 <body>
   <div id="Frame">
     <div id="Title">
-      <h1>Probabilistic Models of Natural Language Reading Group</h1>
+      <h1>Probabilistic Models of Language Group</h1>
       <h2>@ The University of Edinburgh</h2>
     </div>
     <div id="Navbar">
       <ul>
         <li><a href="/probmodels/">About</a></li>
         <li><a href="/probmodels/people">People</a></li>
-        <li><a href="/probmodels/publications">Publications</a></li>
         <li><a href="/probmodels/schedule">Schedule</a></li>
+        <li><a href="/probmodels/publications">Publications</a></li>
       </ul>
     </div>
     <div id="Content">
